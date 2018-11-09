@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFF</color>
+    <color name="colorPrimaryDark">#FFF</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bottom_color_normal">#616161</color>
+    <color name="bottom_color_press">#D32F2F</color>
+
+    <color name="draw_color">#f44336</color>
+
+    <color name="tab">#90d7ec</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="hebao">#9f9f9f</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="lightblack">#ff202020</color>
+
+    <color name="gray_e6">#e6e6e6</color>
+
+</resources>
